@@ -1,0 +1,17 @@
+{
+    "id": "CallAutoDecline",
+    "name": "Call Auto-Decline",
+    "description": "Automatically declines calls for you!",
+    "requiredPermissions": 0,
+
+    "author": "4WG7wrP4",
+    "contributors": [],
+
+    "version": "0.0.4",
+
+    "repoUrl": "https://github.com/YumYummity/ReGuilded-CallAutoDecline",
+
+    "files": "index.js",
+    "banner": "./calldecline.jpg",
+    "images": ["./calldecline.jpg"]
+}
