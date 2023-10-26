@@ -6,7 +6,7 @@ Say NO to annoying calls!
 
 
 
-# Call Auto Decline
+# Call Auto-Decline
 Automatically declines calls for you.
 
 ### Usecase
